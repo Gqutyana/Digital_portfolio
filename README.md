@@ -103,9 +103,7 @@ I now have a well-structured CV that highlights my strengths and is tailored to 
 ## 📬 CV Submission
 
 ### 🧾 Evidence
-- Submitted CV on the career portal.
-- Received feedback from career counsellors.
-- Updated the document based on suggestions.
+https://github.com/Gqutyana/Digital_portfolio/blob/main/CV%20Ntombelanga%20Gqutyana.pdf
 
 ### ⭐ STAR Reflection
 
